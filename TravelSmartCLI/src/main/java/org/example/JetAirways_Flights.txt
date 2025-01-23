@@ -1,0 +1,7 @@
+FlightNumber,SourceCity,DestinationCity,Fare,Duration
+2001,Delhi,Bangalore,23000,3
+2002,Delhi,Chennai,15000,2
+2003,Delhi,Udaipur,11000,1
+2004,Delhi,Udaipur,14000,1
+2005,Delhi,Chennai,16000,2
+2006,Delhi,Chennai,13000,2

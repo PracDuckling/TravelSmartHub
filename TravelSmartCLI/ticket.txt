@@ -1,0 +1,10 @@
+Ticket Details
+====================
+Flight Number: 447
+Source City: DEL
+Destination City: BOM
+Fare: 19371.00
+Duration: 4
+Airline: Indigo
+Total Tickets: 2
+Total Cost: 38742.00

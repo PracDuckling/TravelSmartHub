@@ -1,0 +1,7 @@
+FlightNumber,SourceCity,DestinationCity,Fare,Duration
+3001,Delhi,Udaipur,9000,1
+3002,Delhi,Chennai,16000,2
+3003,Delhi,Udaipur,11000,1
+3004,Delhi,Chennai,14000,2
+3005,Delhi,Bangalore,25000,4
+3006,Delhi,Bangalore,26000,3

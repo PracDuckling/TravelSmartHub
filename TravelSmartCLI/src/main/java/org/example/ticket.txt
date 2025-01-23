@@ -1,0 +1,10 @@
+Ticket Details
+====================
+Flight Number: 107
+Source City: DEL
+Destination City: BOM
+Fare: 21839.00
+Duration: 15
+Airline: Spicejet
+Total Tickets: 2
+Total Cost: 43678.00

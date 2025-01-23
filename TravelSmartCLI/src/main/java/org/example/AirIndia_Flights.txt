@@ -1,0 +1,7 @@
+FlightNumber,SourceCity,DestinationCity,Fare,Duration
+1001,Delhi,Udaipur,10000,1
+1002,Delhi,Udaipur,14000,1
+1003,Delhi,Bangalore,20000,3
+1004,Delhi,Udaipur,14000,1
+1005,Delhi,Chennai,16000,2
+1006,Delhi,Chennai,13000,2
